@@ -2,3 +2,5 @@
 // import "core-js/fn/array.find"
 // ...
 export default class DummyClass {}
+
+export const name = 't2'
